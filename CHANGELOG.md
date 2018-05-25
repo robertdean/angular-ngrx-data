@@ -5,7 +5,8 @@ Please look there.
 
 **_This_** Changelog covers changes to the repository and the demo applications.
 
-<a name="0.6.1">
+<a name="0.6.1"></a>
+
 # 0.6.1 (2018-05-25)
 
 * Refactored for EntityAction operators as required by Beta 6
